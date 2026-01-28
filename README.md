@@ -32,10 +32,10 @@ This mini project features a clean UI, smooth animations, BMI meter visualizatio
 ## 📸 Output Preview
 
 ### 🔹 BMI Calculator
-![BMI Result](./screenshots/bmi.png)
+![BMI Result](bmi.png)
 
 ### 🔹 Extra Weight, History Display (Overweight Case)
-![BMI Result](./screenshots/bmi2.png)
+![BMI Result](bmi2.png)
 
 
 
