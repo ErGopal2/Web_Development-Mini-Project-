@@ -31,11 +31,11 @@ This mini project features a clean UI, smooth animations, BMI meter visualizatio
 
 ## 📸 Output Preview
 
-### 🔹 BMI Result & Meter
-![BMI Result](screenshots/bmi-result.png)
+### 🔹 BMI Calculator
+![BMI Result](screenshots/bmi.png)
 
 ### 🔹 Extra Weight, History Display (Overweight Case)
-![Extra Weight,History](screenshots/extra-weight.png)
+![Extra Weight,History](screenshots/bmi2.png)
 
 
 
